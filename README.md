@@ -17,7 +17,7 @@
 
 **Secure Shield Insurance Pvt. Ltd.** is an interactive **Insurance Data Analysis Dashboard** developed using **Microsoft Power BI**.
 
-The dashboard converts insurance data into meaningful business insights by analyzing:
+The dashboard transforms insurance data into meaningful business insights by analyzing:
 
 * 💰 Premium Amount
 * 🛡️ Coverage Amount
@@ -42,7 +42,9 @@ This project demonstrates practical knowledge of **Data Cleaning, Power Query, D
 
 ## 🖼️ Dashboard Preview
 
-![Secure Shield Insurance Dashboard](./assets/insurance-dashboard.png)
+<p align="center">
+  <img src="./assets/insurance-dashboard.png" alt="Secure Shield Insurance Power BI Dashboard" width="100%">
+</p>
 
 ---
 
@@ -89,16 +91,12 @@ Premium amounts are analyzed across:
 
 **Travel Insurance** contributes the highest premium amount among the policy categories.
 
----
-
 ### 🔄 Active vs Inactive Policies
 
-The donut chart provides a quick overview of policy activity.
+The dashboard provides a quick overview of policy activity:
 
 * 🟢 **Active Policies:** 7.49K
 * 🔵 **Inactive Policies:** 2.51K
-
----
 
 ### 📋 Number of Claims by Claim Status
 
@@ -108,10 +106,6 @@ Claims are categorized into:
 * ✅ Settled
 * ⏳ Pending
 
-This helps understand the overall claim-processing status.
-
----
-
 ### 👥 Claim Amount by Age Group
 
 Claim amounts are analyzed across:
@@ -120,21 +114,15 @@ Claim amounts are analyzed across:
 * 👨 Adult
 * 👴 Elder
 
-This provides demographic insights into claim exposure.
-
----
-
 ### 📊 Claim Analysis by Policy Type
 
-A detailed matrix compares:
+A detailed matrix compares **Pending, Rejected and Settled** claims across:
 
-| Policy Type | Pending | Rejected | Settled |
-| ----------- | ------: | -------: | ------: |
-| Auto        |       ✓ |        ✓ |       ✓ |
-| Health      |       ✓ |        ✓ |       ✓ |
-| Home        |       ✓ |        ✓ |       ✓ |
-| Life        |       ✓ |        ✓ |       ✓ |
-| Travel      |       ✓ |        ✓ |       ✓ |
+* Auto
+* Health
+* Home
+* Life
+* Travel
 
 ---
 
@@ -294,7 +282,6 @@ No Power BI Desktop is required to explore the published dashboard.
 
 **Aspiring Data Analyst**
 
-**Skills:**
 `Python` • `SQL` • `Power BI` • `Tableau` • `Pandas` • `NumPy` • `DAX` • `Data Visualization`
 
 ---
