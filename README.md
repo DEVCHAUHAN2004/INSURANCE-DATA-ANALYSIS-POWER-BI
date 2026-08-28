@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Power%20Query-ETL-742774?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Modeling-BI-blue?style=for-the-badge" />
   
+  
 </p>
 
 <p align="center">
