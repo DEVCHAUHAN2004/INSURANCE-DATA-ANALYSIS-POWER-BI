@@ -187,6 +187,8 @@ Business Insights
 * Fact & Dimension Concepts
 * Analytical Data Structure
 
+
+
 ### DAX
 
 * Measures
