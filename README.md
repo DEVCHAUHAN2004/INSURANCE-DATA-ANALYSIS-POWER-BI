@@ -10,7 +10,8 @@
   
 </p>
 
-<p align="center">
+<p align="center">     
+  
   <b>Interactive Insurance Analytics Dashboard built with Microsoft Power BI</b>
 </p>
 
